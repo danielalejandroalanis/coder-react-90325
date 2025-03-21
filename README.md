@@ -22,12 +22,12 @@ Antes de instalar y ejecutar el proyecto, asegúrate de tener instalado lo sigui
 
 ### 1. Clonar el repositorio
 ```sh
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone https://github.com/danielalejandroalanis/coder-react-90325
 ```
 
 ### 2. Acceder al directorio del proyecto
 ```sh
-cd tu-repositorio
+cd coder-react-90325
 ```
 
 ### 3. Instalar dependencias
