@@ -1,12 +1,53 @@
-# React + Vite
+# Proyecto React Coderhouse - Comisión 90325
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Autor
+Daniel Alanis
 
-Currently, two official plugins are available:
+## Descripción
+Este es un proyecto desarrollado como parte del curso de React en Coderhouse, comisión 90325. Está creado utilizando Vite para una experiencia de desarrollo rápida y optimizada.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologías utilizadas
+- React ⚛️
+- Vite ⚡
+- JavaScript/TypeScript
+- CSS/SCSS
 
-## Expanding the ESLint configuration
+## Requisitos previos
+Antes de instalar y ejecutar el proyecto, asegúrate de tener instalado lo siguiente:
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [Node.js](https://nodejs.org/) (versión recomendada: 16 o superior)
+- [Git](https://git-scm.com/)
+
+## Instalación y ejecución
+
+### 1. Clonar el repositorio
+```sh
+git clone https://github.com/tu-usuario/tu-repositorio.git
+```
+
+### 2. Acceder al directorio del proyecto
+```sh
+cd tu-repositorio
+```
+
+### 3. Instalar dependencias
+```sh
+npm install
+```
+
+### 4. Iniciar el servidor de desarrollo
+```sh
+npm run dev
+```
+
+## Construcción para producción
+Si deseas generar una versión optimizada para producción, ejecuta:
+```sh
+npm run build
+```
+
+## Contribuciones
+Si deseas contribuir a este proyecto, por favor abre un issue o realiza un pull request.
+
+## Licencia
+Este proyecto está bajo la licencia MIT.
